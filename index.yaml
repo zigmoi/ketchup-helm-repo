@@ -3,7 +3,7 @@ entries:
   ketchup-core:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-02-03T00:49:30.599317+05:30"
+    created: "2021-02-06T18:43:10.221815+05:30"
     description: A Helm chart for ketchup API server.
     digest: 0385d0a9108bd5c93cf24e5f4cc0722bb5c567f1c6cec4a7130f30dec42704cc
     name: ketchup-core
@@ -13,7 +13,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-02-03T00:49:30.598798+05:30"
+    created: "2021-02-06T18:43:10.221182+05:30"
     description: A Helm chart for ketchup API server.
     digest: 4bfdac320785a13db48333c14c58620c6127353ca820d59246784c4c50fe78d4
     name: ketchup-core
@@ -23,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-02-03T00:49:30.597798+05:30"
+    created: "2021-02-06T18:43:10.22048+05:30"
     description: A Helm chart for ketchup API server.
     digest: 06ad21cc0ee78cef474cd9307bde9b6a18b0d57ee351328f43cbf27976366bc3
     name: ketchup-core
@@ -34,7 +34,7 @@ entries:
   ketchup-ui:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-02-03T00:49:30.602082+05:30"
+    created: "2021-02-06T18:43:10.223699+05:30"
     description: A Helm chart for ketchup web interface.
     digest: 6984f7e8049a13beda43b4053aa8bc78e6bd8b037e7d014e988ddf9dee18837b
     name: ketchup-ui
@@ -44,7 +44,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-02-03T00:49:30.600724+05:30"
+    created: "2021-02-06T18:43:10.223067+05:30"
     description: A Helm chart for ketchup web interface.
     digest: 207a2b7821c7275572f690469212e25377757ff3f92f5dab9de0928a4e3a0d0a
     name: ketchup-ui
@@ -54,7 +54,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-02-03T00:49:30.600073+05:30"
+    created: "2021-02-06T18:43:10.222458+05:30"
     description: A Helm chart for ketchup web interface.
     digest: f05db4ebdb07d46f5e3da782d4183369dcc2a2d87f9dffb098566b3723aaf1a3
     name: ketchup-ui
@@ -65,7 +65,17 @@ entries:
   ketchup-web-app-template-1:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-02-03T00:49:30.6028+05:30"
+    created: "2021-02-06T18:43:10.224797+05:30"
+    description: Helm chart for deploying web application via ketchup.
+    digest: 90c6a1f9b6c6a18183e388a14c275efc2ead34a7a1eb9e900d73668c06d919b4
+    name: ketchup-web-app-template-1
+    type: application
+    urls:
+    - ketchup-web-app-template-1-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-02-06T18:43:10.224321+05:30"
     description: Helm chart for deploying web application via ketchup.
     digest: d43c64da73185ccb74357afa1dd53c9a7b530201bfe3905f3a07190f28cce797
     name: ketchup-web-app-template-1
@@ -73,4 +83,4 @@ entries:
     urls:
     - ketchup-web-app-template-1-0.1.0.tgz
     version: 0.1.0
-generated: "2021-02-03T00:49:30.59692+05:30"
+generated: "2021-02-06T18:43:10.219513+05:30"
